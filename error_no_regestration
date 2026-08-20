@@ -1,0 +1,673 @@
+[2026-08-18 09:12:34] WARNING[8036] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 09:13:39] WARNING[8036] res_pjsip_outbound_registration.c: Maximum retries reached when attempting outbound registration to 'sip:sip.novofon.ru:5060' with client 'sip:0131759@sip.novofon.ru:5060', stopping registration attempt
+[2026-08-18 12:32:09] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-18 12:32:09] NOTICE[27462] cdr.c: CDR simple logging enabled.
+[2026-08-18 12:32:09] NOTICE[8036] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 12:32:09] NOTICE[8036] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 12:32:09] NOTICE[8036] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-18 12:32:09] NOTICE[27462] chan_iax2.c: Ignoring bindport on reload
+[2026-08-18 12:32:09] NOTICE[27462] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-18 12:32:09] NOTICE[27462] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-18 12:32:26] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-18 12:32:26] NOTICE[28667] cdr.c: CDR simple logging enabled.
+[2026-08-18 12:32:26] NOTICE[8036] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 12:32:26] NOTICE[8036] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 12:33:46] NOTICE[8036] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-18 12:34:14] WARNING[8036] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 12:36:14] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-18 12:36:14] NOTICE[1600] loader.c: 153 modules will be loaded.
+[2026-08-18 12:36:14] NOTICE[1600] cdr.c: CDR simple logging enabled.
+[2026-08-18 12:36:14] NOTICE[1600] indications.c: Default country for indication tones: ru
+[2026-08-18 12:36:14] NOTICE[1600] indications.c: Setting default indication country to 'ru'
+[2026-08-18 12:36:20] WARNING[1600] res_pjsip/config_transport.c: TLS certificate values ignored for websocket transport as they are configured in http.conf
+[2026-08-18 12:36:20] NOTICE[1600] confbridge/conf_config_parser.c: Adding default_bridge profile to app_confbridge
+[2026-08-18 12:36:20] NOTICE[1600] confbridge/conf_config_parser.c: Adding default_user profile to app_confbridge
+[2026-08-18 12:36:20] NOTICE[1600] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[2026-08-18 12:36:20] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-18 12:36:20] NOTICE[1873] cdr.c: CDR simple logging enabled.
+[2026-08-18 12:36:20] NOTICE[1633] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 12:36:20] NOTICE[1633] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 12:36:20] NOTICE[1633] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-18 12:36:20] NOTICE[1873] chan_iax2.c: Ignoring bindport on reload
+[2026-08-18 12:36:20] NOTICE[1873] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-18 12:36:20] NOTICE[1873] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-18 12:37:43] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-18 12:37:43] NOTICE[18595] cdr.c: CDR simple logging enabled.
+[2026-08-18 12:37:43] NOTICE[1633] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 12:37:43] NOTICE[1633] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 12:38:43] NOTICE[1633] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-18 12:39:43] NOTICE[18595] chan_iax2.c: Ignoring bindport on reload
+[2026-08-18 12:39:43] NOTICE[18595] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-18 12:39:43] NOTICE[18595] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-18 12:50:17] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-18 12:50:17] NOTICE[30162] cdr.c: CDR simple logging enabled.
+[2026-08-18 12:50:17] NOTICE[1633] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 12:50:17] NOTICE[1633] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 12:51:17] NOTICE[1633] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-18 12:52:17] NOTICE[30162] chan_iax2.c: Ignoring bindport on reload
+[2026-08-18 12:52:17] NOTICE[30162] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-18 12:52:17] NOTICE[30162] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-18 13:12:44] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-18 13:12:44] NOTICE[14434] cdr.c: CDR simple logging enabled.
+[2026-08-18 13:12:44] NOTICE[1633] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 13:12:44] NOTICE[1633] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 13:13:45] NOTICE[1633] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-18 13:14:45] NOTICE[14434] chan_iax2.c: Ignoring bindport on reload
+[2026-08-18 13:14:45] NOTICE[14434] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-18 13:14:45] NOTICE[14434] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-18 14:50:42] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-18 14:50:42] NOTICE[1628] loader.c: 153 modules will be loaded.
+[2026-08-18 14:50:43] NOTICE[1628] cdr.c: CDR simple logging enabled.
+[2026-08-18 14:50:43] NOTICE[1628] indications.c: Default country for indication tones: ru
+[2026-08-18 14:50:43] NOTICE[1628] indications.c: Setting default indication country to 'ru'
+[2026-08-18 14:50:48] WARNING[1628] res_pjsip/config_transport.c: TLS certificate values ignored for websocket transport as they are configured in http.conf
+[2026-08-18 14:51:48] NOTICE[1628] confbridge/conf_config_parser.c: Adding default_bridge profile to app_confbridge
+[2026-08-18 14:51:48] NOTICE[1628] confbridge/conf_config_parser.c: Adding default_user profile to app_confbridge
+[2026-08-18 14:51:48] NOTICE[1628] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[2026-08-18 15:55:48] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-18 15:55:48] NOTICE[1048] cdr.c: CDR simple logging enabled.
+[2026-08-18 15:55:48] NOTICE[1661] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 15:55:48] NOTICE[1661] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 15:56:48] NOTICE[1661] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-18 15:57:48] NOTICE[1048] chan_iax2.c: Ignoring bindport on reload
+[2026-08-18 15:57:48] NOTICE[1048] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-18 15:57:48] NOTICE[1048] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-18 15:59:22] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-18 15:59:22] NOTICE[4041] cdr.c: CDR simple logging enabled.
+[2026-08-18 15:59:22] NOTICE[1661] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 15:59:22] NOTICE[1661] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-18 16:00:23] NOTICE[1661] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-18 16:01:23] NOTICE[4041] chan_iax2.c: Ignoring bindport on reload
+[2026-08-18 16:01:23] NOTICE[4041] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-18 16:01:23] NOTICE[4041] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-18 20:00:52] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:02:09] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:03:26] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:04:43] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:06:00] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:07:17] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:08:34] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:09:51] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:11:08] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:12:25] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:13:42] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:14:59] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:17:39] WARNING[1661] res_pjsip_outbound_registration.c: '401' fatal response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '300' seconds
+[2026-08-18 20:25:01] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:26:18] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:27:35] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:28:52] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:30:09] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:31:26] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:32:43] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:34:00] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:35:17] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:36:34] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:37:51] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:39:08] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:40:25] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:41:42] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:42:59] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:44:16] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:45:33] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:46:50] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:48:07] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:49:24] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:50:41] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:51:58] WARNING[1661] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-18 20:53:04] WARNING[1661] res_pjsip_outbound_registration.c: '401' fatal response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '300' seconds
+[2026-08-19 01:00:25] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 01:00:25] NOTICE[21561] loader.c: 153 modules will be loaded.
+[2026-08-19 01:00:25] NOTICE[21561] cdr.c: CDR simple logging enabled.
+[2026-08-19 01:00:25] NOTICE[21561] indications.c: Default country for indication tones: ru
+[2026-08-19 01:00:25] NOTICE[21561] indications.c: Setting default indication country to 'ru'
+[2026-08-19 01:00:30] WARNING[21561] res_pjsip/config_transport.c: TLS certificate values ignored for websocket transport as they are configured in http.conf
+[2026-08-19 01:01:31] NOTICE[21561] confbridge/conf_config_parser.c: Adding default_bridge profile to app_confbridge
+[2026-08-19 01:01:31] NOTICE[21561] confbridge/conf_config_parser.c: Adding default_user profile to app_confbridge
+[2026-08-19 01:01:31] NOTICE[21561] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[2026-08-19 02:51:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 02:52:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 02:53:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 02:55:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 02:56:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 02:57:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 02:58:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 02:59:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:00:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:02:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:03:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:04:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:05:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:06:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:07:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:09:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:10:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:11:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:12:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:13:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:14:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:16:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:17:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:18:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:19:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:20:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:21:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:23:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:24:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:25:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:26:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:27:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:28:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:30:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:31:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:32:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:33:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:34:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:35:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:37:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:38:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:39:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:40:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:41:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:42:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:44:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:45:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:46:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:47:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:48:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:49:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:51:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:52:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:53:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:54:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:55:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:56:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:58:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 03:59:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:00:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:01:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:02:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:03:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:05:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:06:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:07:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:08:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:09:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:10:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:12:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:13:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:14:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:15:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:16:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:17:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:19:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:20:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:21:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:22:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:23:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:24:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:26:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:27:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:28:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:29:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:30:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:31:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:33:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:34:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:35:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:36:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:37:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:38:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:40:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:41:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:42:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:43:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:44:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:45:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:47:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:48:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:49:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:50:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:51:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:52:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:54:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:55:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:56:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:57:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:58:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 04:59:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:01:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:02:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:03:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:04:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:05:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:06:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:08:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:09:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:10:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:11:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:12:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:13:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:15:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:16:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:17:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:18:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:19:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:20:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:22:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:23:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:24:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:25:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:26:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:27:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:29:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:30:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:31:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:32:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:33:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:34:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:36:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:37:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:38:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:39:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:40:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:41:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:43:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:44:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:45:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:46:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:47:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:48:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:50:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:51:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:52:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:53:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:54:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:55:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:57:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:58:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 05:59:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:00:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:01:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:02:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:04:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:05:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:06:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:07:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:08:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:09:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:11:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:12:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:13:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:14:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:15:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:16:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:18:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:19:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:20:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:21:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:22:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:23:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:25:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:26:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:27:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:28:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:29:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:30:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:32:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:33:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:34:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:35:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:36:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:37:53] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:39:10] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:40:18] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:41:23] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:42:40] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:43:48] WARNING[21595] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-19 06:44:53] WARNING[21595] res_pjsip_outbound_registration.c: Maximum retries reached when attempting outbound registration to 'sip:sip.novofon.ru:5060' with client 'sip:0131759@sip.novofon.ru:5060', stopping registration attempt
+[2026-08-19 07:57:44] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 11:50:19] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 11:50:19] NOTICE[15445] cdr.c: CDR simple logging enabled.
+[2026-08-19 11:50:19] NOTICE[21595] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 11:50:19] NOTICE[21595] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 11:50:19] NOTICE[21595] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-19 11:50:19] NOTICE[15445] chan_iax2.c: Ignoring bindport on reload
+[2026-08-19 11:50:19] NOTICE[15445] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-19 11:50:19] NOTICE[15445] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-19 11:51:11] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 11:51:11] NOTICE[16367] cdr.c: CDR simple logging enabled.
+[2026-08-19 11:51:11] NOTICE[21595] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 11:51:11] NOTICE[21595] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 11:51:11] NOTICE[21595] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-19 11:51:11] NOTICE[16367] chan_iax2.c: Ignoring bindport on reload
+[2026-08-19 11:51:11] NOTICE[16367] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-19 11:51:11] NOTICE[16367] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-19 11:51:23] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 11:51:23] NOTICE[16642] cdr.c: CDR simple logging enabled.
+[2026-08-19 11:51:23] NOTICE[21595] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 11:51:23] NOTICE[21595] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 11:51:23] NOTICE[21595] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-19 11:51:23] NOTICE[16642] chan_iax2.c: Ignoring bindport on reload
+[2026-08-19 11:51:23] NOTICE[16642] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-19 11:51:23] NOTICE[16642] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-19 11:53:34] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 11:53:34] NOTICE[18558] cdr.c: CDR simple logging enabled.
+[2026-08-19 11:53:34] NOTICE[21595] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 11:53:34] NOTICE[21595] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 11:53:34] NOTICE[21595] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-19 11:53:34] NOTICE[18558] chan_iax2.c: Ignoring bindport on reload
+[2026-08-19 11:53:34] NOTICE[18558] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-19 11:53:34] NOTICE[18558] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-19 11:55:17] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 11:55:17] NOTICE[1612] loader.c: 153 modules will be loaded.
+[2026-08-19 11:55:18] NOTICE[1612] cdr.c: CDR simple logging enabled.
+[2026-08-19 11:55:18] NOTICE[1612] indications.c: Default country for indication tones: ru
+[2026-08-19 11:55:18] NOTICE[1612] indications.c: Setting default indication country to 'ru'
+[2026-08-19 11:55:23] WARNING[1612] res_pjsip/config_transport.c: TLS certificate values ignored for websocket transport as they are configured in http.conf
+[2026-08-19 11:55:23] NOTICE[1612] confbridge/conf_config_parser.c: Adding default_bridge profile to app_confbridge
+[2026-08-19 11:55:23] NOTICE[1612] confbridge/conf_config_parser.c: Adding default_user profile to app_confbridge
+[2026-08-19 11:55:23] NOTICE[1612] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[2026-08-19 11:55:24] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 11:55:24] NOTICE[1885] cdr.c: CDR simple logging enabled.
+[2026-08-19 11:55:24] NOTICE[1645] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 11:55:24] NOTICE[1645] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 11:55:24] NOTICE[1645] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-19 11:55:24] NOTICE[1885] chan_iax2.c: Ignoring bindport on reload
+[2026-08-19 11:55:24] NOTICE[1885] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-19 11:55:24] NOTICE[1885] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-19 11:56:13] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 11:56:13] NOTICE[17032] cdr.c: CDR simple logging enabled.
+[2026-08-19 11:56:13] NOTICE[1645] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 11:56:13] NOTICE[1645] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 11:57:13] NOTICE[1645] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-19 11:58:13] NOTICE[17032] chan_iax2.c: Ignoring bindport on reload
+[2026-08-19 11:58:13] NOTICE[17032] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-19 11:58:13] NOTICE[17032] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-19 16:38:39] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 16:38:39] NOTICE[28623] cdr.c: CDR simple logging enabled.
+[2026-08-19 16:38:39] NOTICE[1645] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 16:38:39] NOTICE[1645] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 16:39:39] NOTICE[1645] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-19 16:40:39] NOTICE[28623] chan_iax2.c: Ignoring bindport on reload
+[2026-08-19 16:40:39] NOTICE[28623] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-19 16:40:39] NOTICE[28623] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-19 17:28:51] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 17:28:51] NOTICE[1631] loader.c: 153 modules will be loaded.
+[2026-08-19 17:28:51] NOTICE[1631] cdr.c: CDR simple logging enabled.
+[2026-08-19 17:28:51] NOTICE[1631] indications.c: Default country for indication tones: ru
+[2026-08-19 17:28:51] NOTICE[1631] indications.c: Setting default indication country to 'ru'
+[2026-08-19 17:28:56] WARNING[1631] res_pjsip/config_transport.c: TLS certificate values ignored for websocket transport as they are configured in http.conf
+[2026-08-19 17:29:57] NOTICE[1631] confbridge/conf_config_parser.c: Adding default_bridge profile to app_confbridge
+[2026-08-19 17:29:57] NOTICE[1631] confbridge/conf_config_parser.c: Adding default_user profile to app_confbridge
+[2026-08-19 17:29:57] NOTICE[1631] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[2026-08-19 17:30:09] WARNING[1660] res_pjsip_outbound_registration.c: '401' fatal response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '300' seconds
+[2026-08-19 17:32:10] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 17:32:10] NOTICE[1621] loader.c: 153 modules will be loaded.
+[2026-08-19 17:32:10] NOTICE[1621] cdr.c: CDR simple logging enabled.
+[2026-08-19 17:32:10] NOTICE[1621] indications.c: Default country for indication tones: ru
+[2026-08-19 17:32:10] NOTICE[1621] indications.c: Setting default indication country to 'ru'
+[2026-08-19 17:32:15] WARNING[1621] res_pjsip/config_transport.c: TLS certificate values ignored for websocket transport as they are configured in http.conf
+[2026-08-19 17:32:15] NOTICE[1621] confbridge/conf_config_parser.c: Adding default_bridge profile to app_confbridge
+[2026-08-19 17:32:15] NOTICE[1621] confbridge/conf_config_parser.c: Adding default_user profile to app_confbridge
+[2026-08-19 17:32:15] NOTICE[1621] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[2026-08-19 17:32:15] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 17:32:15] NOTICE[1890] cdr.c: CDR simple logging enabled.
+[2026-08-19 17:32:15] NOTICE[1650] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 17:32:15] NOTICE[1650] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 17:32:15] NOTICE[1650] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-19 17:32:15] NOTICE[1890] chan_iax2.c: Ignoring bindport on reload
+[2026-08-19 17:32:15] NOTICE[1890] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-19 17:32:16] NOTICE[1890] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-19 17:33:13] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 17:33:13] NOTICE[17822] cdr.c: CDR simple logging enabled.
+[2026-08-19 17:33:13] NOTICE[1650] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 17:33:13] NOTICE[1650] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 17:34:13] NOTICE[1650] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-19 17:35:13] NOTICE[17822] chan_iax2.c: Ignoring bindport on reload
+[2026-08-19 17:35:13] NOTICE[17822] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-19 17:35:13] NOTICE[17822] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-19 17:38:14] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-19 17:38:14] NOTICE[26023] cdr.c: CDR simple logging enabled.
+[2026-08-19 17:38:14] NOTICE[1650] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 17:38:14] NOTICE[1650] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-19 17:39:14] NOTICE[1650] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-19 17:40:14] NOTICE[26023] chan_iax2.c: Ignoring bindport on reload
+[2026-08-19 17:40:14] NOTICE[26023] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-19 17:40:14] NOTICE[26023] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-20 05:32:58] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:34:03] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:35:08] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:36:13] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:37:30] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:38:35] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:39:40] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:40:45] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:41:50] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:42:55] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:44:00] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:45:05] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:46:10] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:47:15] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:48:20] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:49:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:50:42] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:51:47] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:52:52] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:53:57] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:55:02] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:56:07] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:57:12] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:58:17] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 05:59:22] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:00:27] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:01:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:02:43] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:03:48] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:04:53] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:05:58] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:07:03] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:08:08] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:09:13] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:10:30] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:11:35] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:12:40] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:13:45] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:14:50] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:15:55] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:17:00] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:18:05] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:19:10] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:20:15] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:21:20] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:22:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:23:42] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:24:47] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:25:52] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:26:57] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:28:02] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:29:07] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:30:12] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:31:17] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:32:22] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:33:27] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:34:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:35:43] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:36:48] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:37:53] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:38:58] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:40:03] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:41:08] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:42:13] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:43:30] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:44:35] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:45:40] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:46:45] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:47:50] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:48:55] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:50:00] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:51:05] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:52:10] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:53:15] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:54:20] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:55:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:56:42] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:57:47] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:58:52] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 06:59:57] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:01:02] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:02:07] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:03:12] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:04:17] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:05:22] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:06:27] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:07:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:08:43] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:09:48] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:10:53] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:11:58] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:13:03] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:14:08] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:15:13] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:16:30] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:17:35] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:18:40] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:19:45] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:20:50] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:21:55] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:23:00] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:24:05] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:25:10] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:26:15] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:27:20] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:28:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:29:42] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:30:47] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:31:52] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:32:57] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:34:02] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:35:07] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:36:12] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:37:17] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:37:39] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-20 07:38:22] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:39:27] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:40:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:41:43] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:42:48] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:43:53] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:44:58] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:46:03] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:47:08] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:48:13] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:49:30] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:50:35] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:51:40] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:52:45] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:53:50] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:54:55] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:56:00] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:57:05] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:58:10] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 07:59:15] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:00:20] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:01:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:02:42] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:03:47] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:04:52] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:05:57] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:07:02] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:08:07] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:09:12] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:10:17] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:11:22] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:12:27] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:13:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:14:43] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:15:48] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:16:53] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:17:58] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:19:03] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:20:08] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:21:13] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:22:30] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:23:35] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:24:40] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:25:45] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:26:50] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:27:55] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:29:00] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:30:05] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:31:10] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:32:15] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:33:20] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:34:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:35:42] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:36:47] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:37:52] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:38:57] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:40:02] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:41:07] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:42:12] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:43:17] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:44:22] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:45:27] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:46:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:47:43] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:48:48] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:49:53] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:50:58] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:52:03] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:53:08] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:54:13] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:55:30] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:56:35] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:57:40] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:58:45] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 08:59:50] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 09:00:55] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 09:02:00] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 09:03:05] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 09:04:10] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 09:05:15] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 09:06:20] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 09:07:37] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 09:08:42] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 09:09:47] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 09:10:52] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 09:11:57] WARNING[1650] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 09:13:02] WARNING[1650] res_pjsip_outbound_registration.c: Maximum retries reached when attempting outbound registration to 'sip:sip.novofon.ru:5060' with client 'sip:0131759@sip.novofon.ru:5060', stopping registration attempt
+[2026-08-20 13:35:08] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-20 13:35:08] NOTICE[1611] loader.c: 153 modules will be loaded.
+[2026-08-20 13:35:08] NOTICE[1611] cdr.c: CDR simple logging enabled.
+[2026-08-20 13:35:08] NOTICE[1611] indications.c: Default country for indication tones: ru
+[2026-08-20 13:35:08] NOTICE[1611] indications.c: Setting default indication country to 'ru'
+[2026-08-20 13:35:13] WARNING[1611] res_pjsip/config_transport.c: TLS certificate values ignored for websocket transport as they are configured in http.conf
+[2026-08-20 13:35:13] NOTICE[1611] confbridge/conf_config_parser.c: Adding default_bridge profile to app_confbridge
+[2026-08-20 13:35:13] NOTICE[1611] confbridge/conf_config_parser.c: Adding default_user profile to app_confbridge
+[2026-08-20 13:35:13] NOTICE[1611] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[2026-08-20 13:35:14] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-20 13:35:14] NOTICE[1880] cdr.c: CDR simple logging enabled.
+[2026-08-20 13:35:14] NOTICE[1640] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-20 13:35:14] NOTICE[1640] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-20 13:35:14] NOTICE[1640] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-20 13:35:14] NOTICE[1880] chan_iax2.c: Ignoring bindport on reload
+[2026-08-20 13:35:14] NOTICE[1880] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-20 13:35:14] NOTICE[1880] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-20 13:36:07] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-20 13:36:07] NOTICE[17892] cdr.c: CDR simple logging enabled.
+[2026-08-20 13:36:07] NOTICE[1640] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-20 13:36:07] NOTICE[1640] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-20 13:37:07] NOTICE[1640] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-20 13:38:07] NOTICE[17892] chan_iax2.c: Ignoring bindport on reload
+[2026-08-20 13:38:07] NOTICE[17892] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-20 13:38:07] NOTICE[17892] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
+[2026-08-20 13:38:11] Asterisk 22.8.2 built by root @ a0df67c8ca2c on a x86_64 running Linux on 2026-04-04 09:54:34 UTC
+[2026-08-20 13:38:11] NOTICE[21313] cdr.c: CDR simple logging enabled.
+[2026-08-20 13:38:11] NOTICE[1640] res_pjsip/config_transport.c: Transport 'transport-tls' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-20 13:38:11] NOTICE[1640] res_pjsip/config_transport.c: Transport 'transport-wss' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
+[2026-08-20 13:39:11] NOTICE[1640] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[2026-08-20 13:39:11] WARNING[1640] res_pjsip_outbound_registration.c: No response received from 'sip:sip.novofon.ru:5060' on registration attempt to 'sip:0131759@sip.novofon.ru:5060', retrying in '45'
+[2026-08-20 13:40:11] NOTICE[21313] chan_iax2.c: Ignoring bindport on reload
+[2026-08-20 13:40:11] NOTICE[21313] chan_iax2.c: Ignoring bindaddr on reload
+[2026-08-20 13:40:11] NOTICE[21313] app_queue.c: queuerules.conf has not changed since it was last loaded. Not taking any action.
